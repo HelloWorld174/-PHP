@@ -1,6 +1,6 @@
 <?php
-class Cards{ //класс карточки
-  function cardsMethod(){//метод получения карточки
+class Cards{
+  function cardsMethod(){
   $host='localhost';//
   $user='Container+';
   $password='Freightliner5';
